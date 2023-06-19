@@ -1,6 +1,6 @@
 import "./App.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
+import Button from '@mui/material/Button';
 
 
 export default function App(){
@@ -73,7 +73,7 @@ function Price({cards}){
       <p>{cards.support}</p>
       <p>{cards.subdomain}</p>
       <p>{cards.report}</p>
-      
+      <Button variant="contained">Buy Now</Button>
 
     </div>
   )

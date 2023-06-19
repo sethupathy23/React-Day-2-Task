@@ -8,7 +8,7 @@ background: linear-gradient(to right, #0062E6, #33AEFF);
  
 }
 .card{
-  transition:0.8s;
+  transition:0.90s;
 }
 .card:hover{
   
@@ -19,7 +19,7 @@ background: linear-gradient(to right, #0062E6, #33AEFF);
 .card{
   /* border: 2px solid rgb(37, 37, 37); */
   width: 250px;
-  height: 400px;
+  height: 450px;
   margin-top: 100px;
   text-align: center;
   border-radius: 8px;
