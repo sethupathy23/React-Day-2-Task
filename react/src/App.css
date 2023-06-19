@@ -13,7 +13,7 @@ background: linear-gradient(to right, #0062E6, #33AEFF);
 .card:hover{
   
     /* box-shadow: 0 0 3px black; */
-    margin-top: 0.1px;
+    margin-top: 70px;
   } 
 
 .card{
